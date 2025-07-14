@@ -1,6 +1,6 @@
 # Kişisel Blog Sayfası
 
-- Sayfaya Gitmek İçin Tıklayınız ()
+- Sayfaya Gitmek İçin Tıklayınız (https://ardaatprk.github.io/ardablog/)
 
 Bu proje, HTML5 kullanılarak oluşturulmuş basit bir blog sayfasıdır. Aşağıdaki yapıya sahiptir:
 
